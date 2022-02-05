@@ -16,17 +16,189 @@ uid: df4d2438-9dc4-7b4c-26d9-1eed4aa4ff98
 
 \[Mal\] = Malory, Thomas. _Le Morte D'Arthur_ (1470). Vol. 1–2. Forgotten Books, 2008. ISBN: 9781606800690. Project Gutenberg, February 2013 [Volume 1](http://www.gutenberg.org/files/1251/1251-h/1251-h.htm) and [Volume 2](http://www.gutenberg.org/files/1252/1252-h/1252-h.htm) (accessed October 15, 2014).
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Excerpts from Wilhelm, _The Romance of Arthur_ (early Latin and Welsh) |  {{< br >}}{{< br >}} \[RA\] Chapter 1: Arthur in the Latin Chronicles. {{< br >}}{{< br >}} \[RA\] Chapter 2: Arthur in the Early Welsh Tradition. {{< br >}}{{< br >}} \[RA\] Chapter 4: Arthur in Geoffrey of Monmouth. {{< br >}}{{< br >}} \[RA\] Chapter 5: Wace: _Roman de Brut_ (Merlin Episodes and "The Birth and Rise of Arthur"). {{< br >}}{{< br >}} \[RA\] Chapter 6: Layamon: Brut ("The Death of Arthur"). {{< br >}}{{< br >}}  |
-| 2 | Chrétien de Troyes & Marie de France |  {{< br >}}{{< br >}} \[CT\] _The Knight With the Lion (Yvain)._ {{< br >}}{{< br >}} \[MF\] Prologue and _Le lai de Guigemar._ {{< br >}}{{< br >}}  |
-| 3 | Chrétien de Troyes & Marie de France (cont.) |  {{< br >}}{{< br >}} \[CT\] _The Knight With the Cart (Lancelot)._ {{< br >}}{{< br >}} \[MF\] _Le lai de Yonec._ {{< br >}}{{< br >}}  |
-| 4 | Chrétien de Troyes | \[Perc\] _The Story of the Grail_ (Perceval). |
-| 5 | Robert de Boron | \[Bor\] _Joseph of Arimathea, Merlin, Perceval._ |
-| 6 | Malory, _Morte Darthur_ | \[Mal\] Books 1–4. |
-| 7 | Malory, _Morte Darthur_ | \[Mal\] Books 5–7. |
-| 8 | Malory, _Morte Darthur_ | \[Mal\] Books 8–9. |
-| 9 | Malory, _Morte Darthur_ | \[Mal\] Book 10. |
-| 10 | Malory, _Morte Darthur_ | \[Mal\] Books 11–16. |
-| 11 | Malory, _Morte Darthur_ | \[Mal\] Books 17–21. |
-| 12 | Poster session |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Excerpts from Wilhelm, _The Romance of Arthur_ (early Latin and Welsh)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[RA\] Chapter 1: Arthur in the Latin Chronicles.
+
+\[RA\] Chapter 2: Arthur in the Early Welsh Tradition.
+
+\[RA\] Chapter 4: Arthur in Geoffrey of Monmouth.
+
+\[RA\] Chapter 5: Wace: _Roman de Brut_ (Merlin Episodes and "The Birth and Rise of Arthur").
+
+\[RA\] Chapter 6: Layamon: Brut ("The Death of Arthur").
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Chrétien de Troyes & Marie de France
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[CT\] _The Knight With the Lion (Yvain)._
+
+\[MF\] Prologue and _Le lai de Guigemar._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Chrétien de Troyes & Marie de France (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[CT\] _The Knight With the Cart (Lancelot)._
+
+\[MF\] _Le lai de Yonec._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Chrétien de Troyes
+{{< tdclose >}}
+{{< tdopen >}}
+\[Perc\] _The Story of the Grail_ (Perceval).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Robert de Boron
+{{< tdclose >}}
+{{< tdopen >}}
+\[Bor\] _Joseph of Arimathea, Merlin, Perceval._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Malory, _Morte Darthur_
+{{< tdclose >}}
+{{< tdopen >}}
+\[Mal\] Books 1–4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Malory, _Morte Darthur_
+{{< tdclose >}}
+{{< tdopen >}}
+\[Mal\] Books 5–7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Malory, _Morte Darthur_
+{{< tdclose >}}
+{{< tdopen >}}
+\[Mal\] Books 8–9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Malory, _Morte Darthur_
+{{< tdclose >}}
+{{< tdopen >}}
+\[Mal\] Book 10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Malory, _Morte Darthur_
+{{< tdclose >}}
+{{< tdopen >}}
+\[Mal\] Books 11–16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Malory, _Morte Darthur_
+{{< tdclose >}}
+{{< tdopen >}}
+\[Mal\] Books 17–21.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Poster session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

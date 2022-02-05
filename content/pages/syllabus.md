@@ -17,11 +17,48 @@ As a quasi-historical, quasi-legendary figure of consistently great popularity, 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Writing Assignment 1 | 25 |
-| Final project & poster session | 50 |
-| Class Participation | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing Assignment 1
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project & poster session
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There is 25% of your grade from your participation in class, by which I mean your attendance, bodily and intellectual, to our conversations and the seriousness and quality of your engagement in those conversations. Especially given this is a once-a-week subject, you simply must come to class; any more than one absence will have a severe impact on your grade (although of course absences that are the result of serious medical situations will be excused).
 
@@ -52,10 +89,81 @@ Please be aware that there is a wide range of resources for anyone who is strugg
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Excerpts from Lacy and Wilhelm, _The Romance of Arthur_ (early Latin and Welsh) | &nbsp; |
-| 2–4 | Chrétien de Troyes & Marie de France | &nbsp; |
-| 5 | Robert de Boron, _Joseph of Arimathea, Merlin, Perceval_ | First written assignment due after Lec 5 |
-| 6–11 | Malory, _Morte Darthur_ | Peer editing of first written assignment due in Lec 6 |
-| 12 | Poster session / Q&A of your Malory projects; guests (including yours) will be invited! | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Excerpts from Lacy and Wilhelm, _The Romance of Arthur_ (early Latin and Welsh)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–4
+{{< tdclose >}}
+{{< tdopen >}}
+Chrétien de Troyes & Marie de France
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Robert de Boron, _Joseph of Arimathea, Merlin, Perceval_
+{{< tdclose >}}
+{{< tdopen >}}
+First written assignment due after Lec 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–11
+{{< tdclose >}}
+{{< tdopen >}}
+Malory, _Morte Darthur_
+{{< tdclose >}}
+{{< tdopen >}}
+Peer editing of first written assignment due in Lec 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Poster session / Q&A of your Malory projects; guests (including yours) will be invited!
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
