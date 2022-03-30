@@ -26,6 +26,6 @@ Sample Student Final Projects
 
 Two of the students in the class have provided their final projects for publication on OCW and they are presented here with their permission.
 
-Malory Storyboard Project by Rachael Aptowitz: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Le Morte Storyboard (PDF - 1.3MB)]({{< baseurl >}}/resources/mit21l_460f13_storyboard), [Le Morte Storyboard Plot (PDF)]({{< baseurl >}}/resources/mit21l_460f13_strybrd_plot), [Le Morte Analysis Report (PDF)]({{< baseurl >}}/resources/mit21l_460f13_le_morte_anl) (Courtesy of Rachael Aptowitz. Used with permission.)
+Malory Storyboard Project by Rachael Aptowitz: [Le Morte Storyboard (PDF - 1.3MB)]({{< baseurl >}}/resources/mit21l_460f13_storyboard), [Le Morte Storyboard Plot (PDF)]({{< baseurl >}}/resources/mit21l_460f13_strybrd_plot), [Le Morte Analysis Report (PDF)]({{< baseurl >}}/resources/mit21l_460f13_le_morte_anl) (Courtesy of Rachael Aptowitz. Used with permission.)
 
-Malory Visual Map Project by an anonymous student: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Malory Visual Map (PDF)]({{< baseurl >}}/resources/mit21l_460f13_anon1_vs_map), [Malory - Was Justice Served? Report (PDF)]({{< baseurl >}}/resources/mit21l_460f13_anon1_was) (Courtesy of an anonymous MIT student. Used with permission.)
+Malory Visual Map Project by an anonymous student: [Malory Visual Map (PDF)]({{< baseurl >}}/resources/mit21l_460f13_anon1_vs_map), [Malory - Was Justice Served? Report (PDF)]({{< baseurl >}}/resources/mit21l_460f13_anon1_was) (Courtesy of an anonymous MIT student. Used with permission.)
